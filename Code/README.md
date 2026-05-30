@@ -8,10 +8,9 @@ A machine learning project that classifies movie reviews as Positive or Negative
 
 👉 [Click here to view the full notebook with outputs](https://nbviewer.org/github/youssefemad131/IMDB-Sentiment-Analysis/blob/main/Code/NLP_Project.ipynb)
 
-
 ## 🚀 Live Demo
 
-👉 [Try the app here]([[https://huggingface.co/spaces/YOUR_USERNAME/imdb-sentiment](https://huggingface.co/spaces/youssefemad1312/imdb-sentiment)](https://huggingface.co/spaces/youssefemad1312/imdb-sentiment))
+👉 [Try the app here](https://huggingface.co/spaces/youssefemad1312/imdb-sentiment)
 
 ---
 
